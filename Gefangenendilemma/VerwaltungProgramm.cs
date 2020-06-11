@@ -13,7 +13,7 @@ namespace Gefangenendilemma
         /// <summary>
         /// Diese Liste(Collection) enthält alle Gefangene/Strategien
         /// </summary>
-        private static List<BasisStrategie> _strategien;  
+        private static List<BasisStrategie> _strategien;
 
         static void Main(string[] args)
         {
