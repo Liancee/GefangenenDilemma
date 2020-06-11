@@ -47,6 +47,7 @@
     <Compile Include="Basis\GrollStrategie.cs" />
     <Compile Include="Basis\VerrateImmerStrategie.cs" />
     <Compile Include="Basis\VerwaltungKram.cs" />
+    <Compile Include="Taktiken\Tit for Tat.cs" />
     <Compile Include="Verbrechen\IVerbrechensModus.cs" />
     <Compile Include="Verbrechen\LeichterVerstoß.cs" />
     <Compile Include="Verbrechen\MittlererVerstoß.cs" />
