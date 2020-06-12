@@ -20,12 +20,12 @@ namespace Gefangenendilemma
         }
         public override int Verhoer(int letzteReaktion)
         {
+            //return Aufgaben(letzteReaktion);
             return Test(letzteReaktion);
         }
         public int Test(int letzteReaktion)
         {
             Runde++;
-            System.Console.WriteLine(Runde);
             if (Runde > 2)
             {
                 switch (letzteReaktion)
@@ -49,6 +49,21 @@ namespace Gefangenendilemma
                     default:
                         return -1;
                 }
+            }
+        }
+        public int Aufgaben(int letzteReaktion)
+        {
+            switch (letzteReaktion)
+            {
+                case BasisStrategie.NochNichtVerhoert:
+                    return BasisStrategie.Verrat;
+
+                case BasisStrategie.Verrat:
+                    return BasisStrategie.Kooperieren;
+                case BasisStrategie.Kooperieren:
+                    return BasisStrategie.Verrat;
+                default:
+                    return -1;
             }
         }
     }
