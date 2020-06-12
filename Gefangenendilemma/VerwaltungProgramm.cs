@@ -23,7 +23,7 @@ namespace Gefangenendilemma
             _strategien.Add(new GrollStrategie());
             _strategien.Add(new VerrateImmerStrategie());
             _strategien.Add(new Tit_for_Tat());
-            //_strategien.Add(new periodisch_und_unfreundlich());
+            _strategien.Add(new periodisch_und_unfreundlich());
             _strategien.Add(new Zufall());
             _strategien.Add(new Aleksej_Sebastian_TobiTaktik());
 

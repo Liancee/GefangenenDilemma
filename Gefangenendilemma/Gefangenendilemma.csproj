@@ -51,6 +51,7 @@
     <Compile Include="Spielmodi\SpielerVsStrategie.cs" />
     <Compile Include="Spielmodi\Tunier.cs" />
     <Compile Include="Taktiken von anderen Schülern\Aleksej_Sebastian_TobiTaktik.cs" />
+    <Compile Include="Taktiken\periodisch und unfreundlich.cs" />
     <Compile Include="Taktiken\Tit for Tat.cs" />
     <Compile Include="Taktiken\Zufall.cs" />
     <Compile Include="Verbrechen\IVerbrechensModus.cs" />
@@ -65,6 +66,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Aufgaben\A1.txt" />
+    <Content Include="Aufgaben\B1.txt" />
+    <Content Include="Aufgaben\B2.txt" />
+    <Content Include="Aufgaben\Bearbeitete_Aufgaben_Überblick.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
