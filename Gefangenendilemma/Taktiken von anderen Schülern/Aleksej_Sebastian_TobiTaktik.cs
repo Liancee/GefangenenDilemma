@@ -3,9 +3,6 @@ using System;
 
 namespace Gefangenendilemma
 {
-    /// <summary>
-    /// Nur nutzen, wenn es ein 3. Gruppenmitglied gibt.
-    /// </summary>
     public class Aleksej_Sebastian_TobiTaktik : BasisStrategie
     {
         private bool kopierer;
@@ -15,20 +12,16 @@ namespace Gefangenendilemma
         {
             return "Zufälliger Kopierer";
         }
-
         public override string Autor()
         {
             return "Aleksej Demtschuk";
         }
-
         public override void Start(int runde, int schwere)
         {
             reaktion = false;
         }
-
         public override int Verhoer(int letzteReaktion)
         {
-            
             kopierer = random.Next(0, 2) != 0;
 
             if (letzteReaktion != Verrat)
@@ -43,9 +36,7 @@ namespace Gefangenendilemma
             {
                 reaktion = false;
             }
-
             return reaktion ? Verrat : Kooperieren;
-
         }
     }
 }

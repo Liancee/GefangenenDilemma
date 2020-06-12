@@ -47,7 +47,12 @@
     <Compile Include="Basis\GrollStrategie.cs" />
     <Compile Include="Basis\VerrateImmerStrategie.cs" />
     <Compile Include="Basis\VerwaltungKram.cs" />
+    <Compile Include="Spielmodi\1v1.cs" />
+    <Compile Include="Spielmodi\SpielerVsStrategie.cs" />
+    <Compile Include="Spielmodi\Tunier.cs" />
+    <Compile Include="Taktiken von anderen Schülern\Aleksej_Sebastian_TobiTaktik.cs" />
     <Compile Include="Taktiken\Tit for Tat.cs" />
+    <Compile Include="Taktiken\Zufall.cs" />
     <Compile Include="Verbrechen\IVerbrechensModus.cs" />
     <Compile Include="Verbrechen\LeichterVerstoß.cs" />
     <Compile Include="Verbrechen\MittlererVerstoß.cs" />
@@ -60,8 +65,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Taktiken von anderen Schülern\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
