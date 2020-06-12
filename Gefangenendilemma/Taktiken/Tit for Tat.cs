@@ -25,8 +25,8 @@ namespace Gefangenendilemma
         public int Test(int letzteReaktion)
         {
             Runde++;
-
-            if (Runde > 1)
+            System.Console.WriteLine(Runde);
+            if (Runde > 2)
             {
                 switch (letzteReaktion)
                 {
@@ -42,9 +42,9 @@ namespace Gefangenendilemma
             {
                 switch (Runde)
                 {
-                    case 0:
-                        return BasisStrategie.Kooperieren;
                     case 1:
+                        return BasisStrategie.Kooperieren;
+                    case 2:
                         return BasisStrategie.Kooperieren;
                     default:
                         return -1;
