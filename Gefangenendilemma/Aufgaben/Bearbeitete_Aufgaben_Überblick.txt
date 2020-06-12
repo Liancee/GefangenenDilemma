@@ -1,0 +1,10 @@
+S1-3 = 30
+B1 = 15
+B2 = 15
+E1 = 10
+E4 = 10
+(A1 = 5) man kann eh nur 105 Punkte haben deswegen egal
+R1 = 10
+T1 = 15
+
+105 (Ohne A1)

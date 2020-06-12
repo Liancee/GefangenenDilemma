@@ -1,0 +1,29 @@
+Willkommen zum Gefangenendilemma
+0 - Verhör zwischen 2 Strategien
+1 - Spiele selbst gegen eine Strategie
+2 - Lass alle Strategien in einem Tunier mit Neun Runden gegeneinander spielen
+X - Beenden
+Treffen Sie ihre Option: 0
+Willkommen zum Verhör zwischen 2 Strategien
+0 - Groll
+1 - Verrate immer
+2 - Tit for Tat
+3 - Zufall
+4 - Zufälliger Kopierer
+Wählen Sie ihre 2 Strategien:
+Wählen Sie die 1. Strategie
+2
+Wählen Sie die 2. Strategie
+0
+Wie viele Runden sollen diese verhört werden?
+100
+Wie schwer sind die Verstöße? (2=schwer)
+1
+
+Verhör zwischen Tit for Tat und Groll für 100 Runden mit der Schwere Mittel.
+Tit for Tat hat 12 Punkte erhalten.
+Groll hat 788 Punkte erhalten.
+Somit hat Tit for Tat gewonnen.
+
+Wobei die Werte von "Tit for Tat" mit der Methode "Aufgaben" returned wurden und nicht
+mit der Methode "Test".

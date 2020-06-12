@@ -1,0 +1,75 @@
+Willkommen zum Gefangenendilemma
+0 - Verhör zwischen 2 Strategien
+1 - Spiele selbst gegen eine Strategie
+X - Beenden
+Treffen Sie ihre Option: 0
+Willkommen zum Verhör zwischen 2 Strategien
+0 - Groll
+1 - Verrate immer
+2 - Tit for Tat
+3 - periodisch und unfreundlich
+4 - Zufall
+5 - Zufälliger Kopierer
+Wählen Sie ihre 2 Strategien:
+Wählen Sie die 1. Strategie
+2
+Wählen Sie die 2. Strategie
+5
+Wie viele Runden sollen diese verhört werden?
+100
+Wie schwer sind die Verstöße? (2=schwer)
+2
+Verhör zwischen Tit for Tat und Zufälliger Kopierer für 100 Runden mit der Schwere Schwer.
+Tit for Tat hat 400 Punkte erhalten.
+Zufälliger Kopierer hat 400 Punkte erhalten.
+Somit gibt es ein unentschieden zwischen Tit for Tat und Zufälliger Kopierer.
+Willkommen zum Gefangenendilemma
+0 - Verhör zwischen 2 Strategien
+1 - Spiele selbst gegen eine Strategie
+X - Beenden
+Treffen Sie ihre Option: 0
+Willkommen zum Verhör zwischen 2 Strategien
+0 - Groll
+1 - Verrate immer
+2 - Tit for Tat
+3 - periodisch und unfreundlich
+4 - Zufall
+5 - Zufälliger Kopierer
+Wählen Sie ihre 2 Strategien:
+Wählen Sie die 1. Strategie
+2
+Wählen Sie die 2. Strategie
+5
+Wie viele Runden sollen diese verhört werden?
+100
+Wie schwer sind die Verstöße? (2=schwer)
+1
+Verhör zwischen Tit for Tat und Zufälliger Kopierer für 100 Runden mit der Schwere Mittel.
+Tit for Tat hat 1000 Punkte erhalten.
+Zufälliger Kopierer hat 1000 Punkte erhalten.
+Somit gibt es ein unentschieden zwischen Tit for Tat und Zufälliger Kopierer.
+Willkommen zum Gefangenendilemma
+0 - Verhör zwischen 2 Strategien
+1 - Spiele selbst gegen eine Strategie
+X - Beenden
+Treffen Sie ihre Option: 0
+Willkommen zum Verhör zwischen 2 Strategien
+0 - Groll
+1 - Verrate immer
+2 - Tit for Tat
+3 - periodisch und unfreundlich
+4 - Zufall
+5 - Zufälliger Kopierer
+Wählen Sie ihre 2 Strategien:
+Wählen Sie die 1. Strategie
+2
+Wählen Sie die 2. Strategie
+5
+Wie viele Runden sollen diese verhört werden?
+100
+Wie schwer sind die Verstöße? (2=schwer)
+0
+Verhör zwischen Tit for Tat und Zufälliger Kopierer für 100 Runden mit der Schwere Leicht.
+Tit for Tat hat 300 Punkte erhalten.
+Zufälliger Kopierer hat 300 Punkte erhalten.
+Somit gibt es ein unentschieden zwischen Tit for Tat und Zufälliger Kopierer.
